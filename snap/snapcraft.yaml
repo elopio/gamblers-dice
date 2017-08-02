@@ -12,7 +12,7 @@ description: |
   likely to show up in the next roll with these dice. And the best part, it's
   still uniformly random for large sample sets!
 
-grade: devel # must be 'stable' to release into candidate/stable channels
+grade: stable
 confinement: strict
 
 apps:
